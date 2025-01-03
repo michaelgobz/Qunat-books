@@ -1,0 +1,496 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Quantitative Test Questions}
+\author{Michael Goboola}
+\date{January 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\section*{Advanced Algebra Questions}
+
+\begin{enumerate}
+    \item Prove that for a commutative ring \( R \), the set of nilpotent elements forms an ideal. Is this ideal always finitely generated? Provide a counterexample if not.
+
+    \item Let \( G \) be a finite group of order \( n \). Show that if \( n \) is divisible by 3, then \( G \) has an element of order 3.
+
+    \item Solve for \( x \in \mathbb{Q} \) in the following equation:
+    \[
+    x^3 - 3x^2 + 2x - 1 = 0.
+    \]
+
+    \item Let \( f(x) = x^5 - x + 1 \). Prove that \( f(x) \) is irreducible over \( \mathbb{Q} \).
+
+    \item Show that the ring \( \mathbb{Z}[\sqrt{-5}] \) is not a unique factorization domain (UFD).
+
+    \item Determine the Galois group of the polynomial \( x^4 - 4x^2 + 4 \) over \( \mathbb{Q} \).
+
+    \item Let \( R \) be a commutative ring with unity, and \( I, J \) be ideals of \( R \). Prove that \( \sqrt{I \cap J} = \sqrt{I} \cap \sqrt{J} \).
+
+    \item Prove that every finite integral domain is a field.
+
+    \item If \( G \) is a finite cyclic group of order \( n \), show that the number of generators of \( G \) is \( \phi(n) \), where \( \phi \) is the Euler totient function.
+
+    \item Let \( R \) be a principal ideal domain (PID). Prove that every submodule of a free \( R \)-module is free.
+\end{enumerate}
+
+\section*{Linear Algebra Questions}
+
+\begin{enumerate}
+    \item Let \( A \in \mathbb{R}^{n \times n} \). Prove that if \( A \) is invertible, then all its eigenvalues are non-zero.
+
+    \item Suppose \( A \in \mathbb{C}^{n \times n} \) is a Hermitian matrix. Prove that all eigenvalues of \( A \) are real.
+
+    \item Find the Jordan canonical form of the matrix:
+    \[
+    A = 
+    \begin{bmatrix}
+    5 & 4 & 2 \\
+    0 & 1 & -1 \\
+    0 & 0 & 3
+    \end{bmatrix}.
+    \]
+
+    \item Let \( V \) be a finite-dimensional vector space over \( \mathbb{C} \). Show that every linear operator on \( V \) has at least one eigenvalue.
+
+    \item If \( A \in \mathbb{R}^{n \times n} \) is a skew-symmetric matrix, prove that \( A^T = -A \) and that all eigenvalues of \( A \) are purely imaginary.
+
+    \item Prove that the determinant of a block diagonal matrix is the product of the determinants of its diagonal blocks.
+
+    \item Compute the singular value decomposition (SVD) of the matrix:
+    \[
+    A = 
+    \begin{bmatrix}
+    3 & 0 & 0 \\
+    4 & 0 & 0 \\
+    0 & 5 & 0
+    \end{bmatrix}.
+    \]
+
+    \item Let \( A, B \in \mathbb{C}^{n \times n} \). Prove that if \( AB = BA \), then \( A \) and \( B \) are simultaneously triangularizable.
+
+    \item Let \( A \in \mathbb{R}^{n \times n} \) be a positive definite matrix. Show that there exists a unique \( L \in \mathbb{R}^{n \times n} \) such that \( A = LL^T \) and \( L \) is lower triangular with positive diagonal entries (Cholesky decomposition).
+
+    \item Given \( A \in \mathbb{C}^{n \times n} \), prove that \( A \) is normal if and only if there exists a unitary matrix \( U \) such that \( U^*AU \) is diagonal.
+\end{enumerate}
+
+\section*{Differential Calculus Questions}
+
+\begin{enumerate}
+    \item Let \( f(x, y) = x^2 + xy + y^2 \). Find and classify the critical points of \( f \).
+
+    \item Prove that if \( f : \mathbb{R}^n \to \mathbb{R} \) is differentiable and \( \nabla f = 0 \), then \( f \) is constant on any connected open subset of \( \mathbb{R}^n \).
+
+    \item Find the Taylor series expansion of \( f(x, y) = e^{xy} \) up to the second-order terms at \( (0, 0) \).
+
+    \item Let \( f(x, y, z) = x^2 + y^2 + z^2 - xyz \). Find the equation of the tangent plane at the point \( (1, 1, 1) \).
+
+    \item Use the implicit function theorem to prove that the equation \( x^3 + y^3 - 3xy + z = 0 \) defines \( z \) as a differentiable function of \( x \) and \( y \) near \( (1, 1, -2) \).
+
+    \item Show that the function \( f(x, y) = |x| + |y| \) is not differentiable at \( (0, 0) \).
+
+    \item Find the Jacobian determinant of the transformation \( u = x^2 - y^2, v = 2xy \).
+
+    \item Let \( f(x) = x^x \). Compute \( \frac{d^2}{dx^2} f(x) \).
+
+    \item Prove that if \( f : \mathbb{R} \to \mathbb{R} \) is twice differentiable and \( f''(x) > 0 \) for all \( x \), then \( f \) is strictly convex.
+
+    \item Solve the optimization problem: Maximize \( f(x, y) = xy \) subject to \( x^2 + y^2 = 1 \).
+\end{enumerate}
+
+\section*{Integral Calculus Questions}
+
+\begin{enumerate}
+    \item Evaluate the improper integral:
+    \[
+    \int_{0}^{\infty} \frac{x}{e^x - 1} \, dx.
+    \]
+
+    \item Show that the integral
+    \[
+    \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}.
+    \]
+
+    \item Compute the surface area of the paraboloid \( z = 1 - x^2 - y^2 \) above the \( xy \)-plane.
+
+    \item Solve the double integral:
+    \[
+    \int_{0}^{1} \int_{0}^{x} e^{x^2 + y^2} \, dy \, dx.
+    \]
+
+    \item Prove that for any \( n \in \mathbb{N} \),
+    \[
+    \int_{0}^{\pi/2} \sin^n x \, dx = \frac{(n-1)!!}{n!!} \cdot \frac{\pi}{2},
+    \]
+    where \( n!! \) denotes the double factorial.
+
+    \item Evaluate the line integral:
+    \[
+    \int_{C} (x^2 + y^2) \, ds,
+    \]
+    where \( C \) is the unit circle \( x^2 + y^2 = 1 \).
+
+    \item Show that the volume of the solid obtained by revolving the curve \( y = \sqrt{x} \) about the \( x \)-axis for \( 0 \leq x \leq 1 \) is \( \frac{\pi}{2} \).
+
+    \item Use Fubini's theorem to evaluate:
+    \[
+    \int_{0}^{1} \int_{0}^{1} \frac{1}{1 - xy} \, dx \, dy.
+    \]
+
+    \item Find the Fourier transform of \( f(x) = e^{-|x|} \).
+
+    \item Prove that
+    \[
+    \int_{0}^{\infty} \frac{\sin x}{x} \, dx = \frac{\pi}{2}.
+    \]
+\end{enumerate}
+
+\section*{Differential Equations Questions}
+
+\begin{enumerate}
+    \item Solve the partial differential equation:
+    \[
+    u_t + u_x = 0, \quad u(x, 0) = e^{-x^2}.
+    \]
+
+    \item Solve the boundary value problem:
+    \[
+    y'' + \lambda y = 0, \quad y(0) = 0, \quad y(\pi) = 0.
+    \]
+
+    \item Verify that \( y = x^2 + Cx^{-1} \) is a general solution of the differential equation:
+    \[
+    x^2 y'' - 3x y' + 4y = 0.
+    \]
+
+    \item Use the method of Frobenius to find a series solution near \( x = 0 \) for:
+    \[
+    x^2 y'' + xy' - y = 0.
+    \]
+
+    \item Solve the nonlinear first-order differential equation:
+    \[
+    \frac{dy}{dx} = \frac{x + y}{x - y}.
+    \]
+
+    \item Prove that the solution of the heat equation:
+    \[
+    u_t = \alpha^2 u_{xx}, \quad u(x, 0) = \sin(\pi x),
+    \]
+    satisfies the boundary conditions \( u(0, t) = u(1, t) = 0 \).
+
+    \item Solve the system of differential equations:
+    \[
+    \frac{dx}{dt} = 3x - 4y, \quad \frac{dy}{dt} = 4x + 3y.
+    \]
+
+    \item Solve the Laplace equation:
+    \[
+    \nabla^2 u = 0, \quad u(x, 0) = x, \quad u(0, y) = y.
+    \]
+
+    \item Show that \( y = Ce^{\lambda x} \) is a solution of the eigenvalue problem:
+    \[
+    y'' + \lambda y = 0, \quad y(0) = y(1) = 0.
+    \]
+
+    \item Use the method of separation of variables to solve:
+    \[
+    \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}.
+    \]
+\end{enumerate}
+
+\section*{Probability Questions}
+
+\begin{enumerate}
+    \item Prove that if \( X \sim N(0, 1) \), then \( \mathbb{E}[X^2] = 1 \).
+
+    \item Let \( X \) and \( Y \) be independent random variables. Prove that \( \text{Var}(X + Y) = \text{Var}(X) + \text{Var}(Y) \).
+
+    \item Find the maximum likelihood estimator for \( \lambda \) given a sample \( X_1, X_2, \dots, X_n \) from a Poisson distribution with mean \( \lambda \).
+
+    \item A fair coin is flipped 10 times. What is the probability of getting exactly 5 heads?
+
+    \item Compute the moment-generating function of an exponential random variable with rate parameter \( \lambda \).
+
+    \item If \( X \sim U(0, 1) \), find the probability density function of \( Y = -\ln(X) \).
+
+    \item Show that the covariance of \( X \) and \( Y \), defined as \( \text{Cov}(X, Y) = \mathbb{E}[XY] - \mathbb{E}[X]\mathbb{E}[Y] \), is symmetric.
+
+    \item Let \( X_1, X_2, \dots, X_n \) be independent random variables, each with mean \( \mu \) and variance \( \sigma^2 \). Prove the central limit theorem.
+
+    \item Prove that for any random variable \( X \), \( \text{Var}(X) \geq 0 \).
+
+    \item Compute the expected value of the sum of two independent uniform random variables:
+    \[
+    X, Y \sim U(0, 1).
+    \]
+\end{enumerate}
+
+\section*{Discrete Mathematics Questions}
+
+\begin{enumerate}
+    \item Prove that the sum of the degrees of all vertices in a graph is twice the number of edges.
+
+    \item Show that the number of subsets of a set with \( n \) elements is \( 2^n \).
+
+    \item Let \( G \) be a bipartite graph. Prove that \( G \) has no odd-length cycles.
+
+    \item Prove that the recurrence relation \( T(n) = 2T(n/2) + n \) has a solution \( T(n) = O(n \log n) \).
+
+    \item Find the chromatic number of the complete graph \( K_n \).
+
+    \item Use mathematical induction to prove that:
+    \[
+    \sum_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}.
+    \]
+
+    \item Prove that every planar graph satisfies \( V - E + F = 2 \), where \( V \), \( E \), and \( F \) are the number of vertices, edges, and faces, respectively.
+
+    \item Determine whether the following logical formula is satisfiable:
+    \[
+    (P \lor Q) \land (\neg P \lor R) \land (\neg Q \lor \neg R).
+    \]
+
+    \item Show that the number of ways to distribute \( n \) identical objects into \( r \) distinct boxes is \( \binom{n+r-1}{r-1} \).
+
+    \item Prove that the sum of the first \( n \) Fibonacci numbers is \( F_{n+2} - 1 \), where \( F_k \) is the \( k \)-th Fibonacci number.
+\end{enumerate}
+
+\section*{Statistics Questions}
+
+\begin{enumerate}
+    \item A random sample of size \( n \) is drawn from a population with mean \( \mu \) and variance \( \sigma^2 \). Derive the maximum likelihood estimator for \( \mu \).
+
+    \item Let \( X_1, X_2, \dots, X_n \) be independent and identically distributed random variables with mean \( \mu \) and variance \( \sigma^2 \). Show that the sample mean \( \bar{X} \) is an unbiased estimator of \( \mu \).
+
+    \item Prove that the variance of the sample mean \( \bar{X} \) is \( \sigma^2 / n \).
+
+    \item Compute the 95\% confidence interval for the mean \( \mu \) of a normal distribution with known variance \( \sigma^2 \).
+
+    \item Test the hypothesis \( H_0: \mu = \mu_0 \) versus \( H_1: \mu \neq \mu_0 \) for a normal population with known variance \( \sigma^2 \) at a significance level \( \alpha \).
+
+    \item Derive the least-squares estimators for the coefficients in a simple linear regression model \( Y = \beta_0 + \beta_1 X + \epsilon \).
+
+    \item Show that the correlation coefficient \( r \) satisfies \( -1 \leq r \leq 1 \).
+
+    \item Let \( X \sim N(\mu, \sigma^2) \). Prove that \( \frac{(n-1)S^2}{\sigma^2} \sim \chi^2_{n-1} \), where \( S^2 \) is the sample variance.
+
+    \item Use the central limit theorem to approximate the probability:
+    \[
+    P\left( \frac{\sum_{i=1}^n X_i - n\mu}{\sqrt{n\sigma^2}} \leq z \right),
+    \]
+    where \( X_i \) are independent and identically distributed random variables.
+
+    \item Perform a chi-square test for goodness of fit for a multinomial distribution.
+\end{enumerate}
+
+\section*{Numerical Methods Questions}
+
+\begin{enumerate}
+    \item Derive the Newton-Raphson formula for finding roots of a nonlinear equation \( f(x) = 0 \).
+
+    \item Apply the bisection method to solve \( x^3 - x - 2 = 0 \) in the interval \( [1, 2] \) up to 4 iterations.
+
+    \item Prove the convergence of the fixed-point iteration method under the condition \( |g'(x)| < 1 \) for all \( x \) in the interval of interest.
+
+    \item Use Lagrange interpolation to find a polynomial that passes through the points \( (1, 1), (2, 4), (3, 9) \).
+
+    \item Derive the trapezoidal rule for approximating \( \int_a^b f(x) \, dx \).
+
+    \item Analyze the error term in Simpson's rule for numerical integration.
+
+    \item Solve the linear system \( Ax = b \) using Gaussian elimination for the matrix:
+    \[
+    A = \begin{bmatrix} 2 & 1 & -1 \\ -3 & -1 & 2 \\ -2 & 1 & 2 \end{bmatrix}, \quad b = \begin{bmatrix} 8 \\ -11 \\ -3 \end{bmatrix}.
+    \]
+
+    \item Perform power iteration to find the dominant eigenvalue of the matrix:
+    \[
+    A = \begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}.
+    \]
+
+    \item Use Euler's method to approximate the solution of the differential equation \( \frac{dy}{dx} = x + y \), \( y(0) = 1 \), for \( x \in [0, 1] \) with step size \( h = 0.1 \).
+
+    \item Prove that the Jacobi method converges for a diagonally dominant matrix.
+\end{enumerate}
+
+\section*{Python Programming Questions}
+
+\begin{enumerate}
+    \item What is the output of the following Python code?
+
+    \[
+    \texttt{print(2 + 3 * 5)}
+    \]
+
+    \item How do you define a function in Python? Provide an example function that returns the square of a number.
+
+    \[
+    \texttt{def square(x):}
+    \]
+    \[
+    \texttt{\ \ \ \ return x^2}
+    \]
+
+    \item What does the \texttt{lambda} keyword do in Python? Provide an example.
+
+    \[
+    \texttt{f = lambda x: x^2}
+    \]
+    \[
+    \texttt{print(f(4)) \quad \text{# Output will be 16}}
+    \]
+
+    \item What is the difference between a list and a tuple in Python?
+
+    \[
+    \texttt{list\_example = [1, 2, 3]}
+    \]
+    \[
+    \texttt{tuple\_example = (1, 2, 3)}
+    \]
+    Lists are mutable, while tuples are immutable.
+
+    \item How do you handle exceptions in Python? Write an example using \texttt{try} and \texttt{except}.
+
+    \[
+    \texttt{try:}
+    \]
+    \[
+    \texttt{\ \ \ \ x = 1 / 0}
+    \]
+    \[
+    \texttt{except ZeroDivisionError:}
+    \]
+    \[
+    \texttt{\ \ \ \ print("Cannot divide by zero!")}
+    \]
+
+    \item What is a dictionary in Python? Provide an example of a dictionary.
+
+    \[
+    \texttt{my\_dict = \{ "name": "Alice", "age": 25 \}}
+    \]
+    \[
+    \texttt{print(my\_dict["name"]) \quad \text{# Output will be "Alice"}}
+    \]
+
+    \item What is the difference between \texttt{del} and \texttt{pop} in Python?
+
+    \item How do you add an item to the end of a list in Python?
+
+    \[
+    \texttt{list\_example.append(4)}
+    \]
+
+    \item What is list slicing in Python? Provide an example.
+
+    \[
+    \texttt{my\_list = [1, 2, 3, 4, 5]}
+    \]
+    \[
+    \texttt{print(my\_list[1:4]) \quad \text{# Output will be [2, 3, 4]}}
+    \]
+
+    \item How do you remove an item from a list in Python by its value?
+
+    \[
+    \texttt{my\_list.remove(3)}
+    \]
+
+    \item What is the output of the following code?
+
+    \[
+    \texttt{print("Hello" + " " + "World")}
+    \]
+
+    \item What are the different types of loops in Python?
+
+    \item How can you iterate over a dictionary in Python?
+
+    \[
+    \texttt{for key, value in my\_dict.items():}
+    \]
+    \[
+    \texttt{\ \ \ \ print(key, value)}
+    \]
+
+    \item What is a class in Python? Provide an example of a simple class.
+
+    \[
+    \texttt{class Person:}
+    \]
+    \[
+    \texttt{\ \ \ \ def \_\_init\_\_(self, name, age):}
+    \]
+    \[
+    \texttt{\ \ \ \ \ \ \ \ self.name = name}
+    \]
+    \[
+    \texttt{\ \ \ \ \ \ \ \ self.age = age}
+    \]
+
+    \item How do you call a method of a class in Python?
+
+    \[
+    \texttt{person = Person("Alice", 30)}
+    \]
+    \[
+    \texttt{print(person.name)}
+    \]
+
+    \item What is inheritance in Python? Provide an example.
+
+    \[
+    \texttt{class Student(Person):}
+    \]
+    \[
+    \texttt{\ \ \ \ def \_\_init\_\_(self, name, age, grade):}
+    \]
+    \[
+    \texttt{\ \ \ \ \ \ \ \ super().\_\_init\_\_(name, age)}
+    \]
+    \[
+    \texttt{\ \ \ \ \ \ \ \ self.grade = grade}
+    \]
+
+    \item What is a generator in Python?
+
+    \[
+    \texttt{def my\_generator():}
+    \]
+    \[
+    \texttt{\ \ \ \ yield 1}
+    \]
+    \[
+    \texttt{\ \ \ \ yield 2}
+    \]
+    \[
+    \texttt{\ \ \ \ yield 3}
+    \]
+
+    \item How do you create a Python set? Provide an example.
+
+    \[
+    \texttt{my\_set = \{1, 2, 3, 4, 5\}}
+    \]
+
+    \item What is the difference between \texttt{is} and \texttt{==} in Python?
+
+    \item How do you convert a string to an integer in Python?
+
+    \[
+    \texttt{my\_int = int("123")}
+    \]
+    \[
+    \texttt{print(my\_int) \quad \text{# Output will be 123}}
+    \]
+
+\end{enumerate}
+
+\end{document}
