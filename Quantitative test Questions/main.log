@@ -1,0 +1,1054 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.3)  3 JAN 2025 12:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex"
+(c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box52
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen144
+\scratchbox=\box53
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen145
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks19
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:21: Undefined control sequence.
+l.21     \item Solve for \( x \in \mathbb
+                                         {Q} \) in the following equation:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:26: Undefined control sequence.
+l.26 ... \( f(x) \) is irreducible over \( \mathbb
+                                                  {Q} \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:28: Undefined control sequence.
+l.28     \item Show that the ring \( \mathbb
+                                            {Z}[\sqrt{-5}] \) is not a uniqu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:30: Undefined control sequence.
+l.30 ...omial \( x^4 - 4x^2 + 4 \) over \( \mathbb
+                                                  {Q} \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:44: Undefined control sequence.
+l.44     \item Let \( A \in \mathbb
+                                   {R}^{n \times n} \). Prove that if \( A \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:46: Undefined control sequence.
+l.46     \item Suppose \( A \in \mathbb
+                                       {C}^{n \times n} \) is a Hermitian ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:51: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51     \begin{bmatrix}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:52: Misplaced alignment tab character &.
+l.52     5 &
+             4 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:52: Misplaced alignment tab character &.
+l.52     5 & 4 &
+                 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:53: Misplaced alignment tab character &.
+l.53     0 &
+             1 & -1 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:53: Misplaced alignment tab character &.
+l.53     0 & 1 &
+                 -1 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:54: Misplaced alignment tab character &.
+l.54     0 &
+             0 & 3
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:54: Misplaced alignment tab character &.
+l.54     0 & 0 &
+                 3
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:55: LaTeX Error: \begin{enumerate} on input line 43 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55     \end{bmatrix}
+                      .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+[1
+
+{C:/Users/michael/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:58: Undefined control sequence.
+l.58 ...e-dimensional vector space over \( \mathbb
+                                                  {C} \). Show that every li...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:60: Undefined control sequence.
+l.60     \item If \( A \in \mathbb
+                                  {R}^{n \times n} \) is a skew-symmetric ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:67: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67     \begin{bmatrix}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:68: Misplaced alignment tab character &.
+l.68     3 &
+             0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:68: Misplaced alignment tab character &.
+l.68     3 & 0 &
+                 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:69: Misplaced alignment tab character &.
+l.69     4 &
+             0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:69: Misplaced alignment tab character &.
+l.69     4 & 0 &
+                 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:70: Misplaced alignment tab character &.
+l.70     0 &
+             5 & 0
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:70: Misplaced alignment tab character &.
+l.70     0 & 5 &
+                 0
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:71: LaTeX Error: \begin{enumerate} on input line 43 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71     \end{bmatrix}
+                      .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:74: Undefined control sequence.
+l.74     \item Let \( A, B \in \mathbb
+                                      {C}^{n \times n} \). Prove that if \( ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:76: Undefined control sequence.
+l.76     \item Let \( A \in \mathbb
+                                   {R}^{n \times n} \) be a positive definit...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:76: Undefined control sequence.
+l.76 ...hat there exists a unique \( L \in \mathbb
+                                                  {R}^{n \times n} \) such t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:78: Undefined control sequence.
+l.78     \item Given \( A \in \mathbb
+                                     {C}^{n \times n} \), prove that \( A \)...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:86: Undefined control sequence.
+l.86     \item Prove that if \( f : \mathbb
+                                           {R}^n \to \mathbb{R} \) is differ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:86: Undefined control sequence.
+l.86 ...ve that if \( f : \mathbb{R}^n \to \mathbb
+                                                  {R} \) is differentiable a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:86: Undefined control sequence.
+l.86 ...on any connected open subset of \( \mathbb
+                                                  {R}^n \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:100: Undefined control sequence.
+l.100     \item Prove that if \( f : \mathbb
+                                            {R} \to \mathbb{R} \) is twice d...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:100: Undefined control sequence.
+l.100 ...ove that if \( f : \mathbb{R} \to \mathbb
+                                                  {R} \) is twice differenti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[2]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:125: Undefined control sequence.
+l.125 ...\item Prove that for any \( n \in \mathbb
+                                                  {N} \),
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[3]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:210: Undefined control sequence.
+l.210 ... if \( X \sim N(0, 1) \), then \( \mathbb
+                                                  {E}[X^2] = 1 \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:212: Undefined control sequence.
+l.212 ...ent random variables. Prove that \( \text
+                                                  {Var}(X + Y) = \text{Var}(...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:212: Undefined control sequence.
+l.212 .... Prove that \( \text{Var}(X + Y) = \text
+                                                  {Var}(X) + \text{Var}(Y) \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:212: Undefined control sequence.
+l.212 ...\text{Var}(X + Y) = \text{Var}(X) + \text
+                                                  {Var}(Y) \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (4.8535pt too wide) in paragraph at lines 214--215
+[]\OT1/cmr/m/n/10 Find the max-i-mum like-li-hood es-ti-ma-tor for $\OML/cmm/m/it/10 ^^U$ \OT1/cmr/m/n/10 given a sam-ple $\OML/cmm/m/it/10 X[]; X[]; [] ; X[]$
+ []
+
+
+
+[4]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:222: Undefined control sequence.
+l.222 ... \( X \) and \( Y \), defined as \( \text
+                                                  {Cov}(X, Y) = \mathbb{E}[X...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:222: Undefined control sequence.
+l.222 ... defined as \( \text{Cov}(X, Y) = \mathbb
+                                                  {E}[XY] - \mathbb{E}[X]\ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:222: Undefined control sequence.
+l.222 ...ext{Cov}(X, Y) = \mathbb{E}[XY] - \mathbb
+                                                  {E}[X]\mathbb{E}[Y] \), is...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:222: Undefined control sequence.
+l.222 ...) = \mathbb{E}[XY] - \mathbb{E}[X]\mathbb
+                                                  {E}[Y] \), is symmetric.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:226: Undefined control sequence.
+l.226 ...for any random variable \( X \), \( \text
+                                                  {Var}(X) \geq 0 \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[5]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:259: Undefined control sequence.
+l.259 ... into \( r \) distinct boxes is \( \binom
+                                                  {n+r-1}{r-1} \).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[6]
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309     A = \begin{bmatrix}
+                              2 & 1 & -1 \\ -3 & -1 & 2 \\ -2 & 1 & 2 \end{b...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309     A = \begin{bmatrix} 2 &
+                                  1 & -1 \\ -3 & -1 & 2 \\ -2 & 1 & 2 \end{b...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309     A = \begin{bmatrix} 2 & 1 &
+                                      -1 \\ -3 & -1 & 2 \\ -2 & 1 & 2 \end{b...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309     A = \begin{bmatrix} 2 & 1 & -1 \\ -3 &
+                                                 -1 & 2 \\ -2 & 1 & 2 \end{b...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309 ...= \begin{bmatrix} 2 & 1 & -1 \\ -3 & -1 &
+                                                   2 \\ -2 & 1 & 2 \end{bmat...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309 ...matrix} 2 & 1 & -1 \\ -3 & -1 & 2 \\ -2 &
+                                                   1 & 2 \end{bmatrix}, \qua...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: Misplaced alignment tab character &.
+l.309 ...ix} 2 & 1 & -1 \\ -3 & -1 & 2 \\ -2 & 1 &
+                                                   2 \end{bmatrix}, \quad b ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: LaTeX Error: \begin{enumerate} on input line 294 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 ...\ -3 & -1 & 2 \\ -2 & 1 & 2 \end{bmatrix}
+                                                  , \quad b = \begin{bmatrix...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 ... \end{bmatrix}, \quad b = \begin{bmatrix}
+                                                   8 \\ -11 \\ -3 \end{bmatr...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:309: LaTeX Error: \begin{enumerate} on input line 294 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 ...gin{bmatrix} 8 \\ -11 \\ -3 \end{bmatrix}
+                                                  .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:314: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314     A = \begin{bmatrix}
+                              4 & 1 \\ 2 & 3 \end{bmatrix}.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:314: Misplaced alignment tab character &.
+l.314     A = \begin{bmatrix} 4 &
+                                  1 \\ 2 & 3 \end{bmatrix}.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:314: Misplaced alignment tab character &.
+l.314     A = \begin{bmatrix} 4 & 1 \\ 2 &
+                                           3 \end{bmatrix}.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:314: LaTeX Error: \begin{enumerate} on input line 294 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 ...gin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}
+                                                  .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:337: Missing $ inserted.
+<inserted text> 
+                $
+l.337     \texttt{\ \ \ \ return x^2}
+                                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:337: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.337     \texttt{\ \ \ \ return x^2}
+                                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:337: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.337     \texttt{\ \ \ \ return x^2}
+                                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:338: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338     \]
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:339: Missing $ inserted.
+<inserted text> 
+                $
+l.339 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:339: Missing } inserted.
+<inserted text> 
+                }
+l.339 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:340: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340     \item
+                What does the \texttt{lambda} keyword do in Python? Provide ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:340: Missing $ inserted.
+<inserted text> 
+                $
+l.340     \item W
+                 hat does the \texttt{lambda} keyword do in Python? Provide ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:340: Missing } inserted.
+<inserted text> 
+                }
+l.340     \item W
+                 hat does the \texttt{lambda} keyword do in Python? Provide ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:340: Display math should end with $$.
+<to be read again> 
+                   \vskip 
+l.340     \item W
+                 hat does the \texttt{lambda} keyword do in Python? Provide ...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:343: Missing $ inserted.
+<inserted text> 
+                $
+l.343     \texttt{f = lambda x: x^2}
+                                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:343: Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.343     \texttt{f = lambda x: x^2}
+                                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:343: Extra }, or forgotten $.
+\nfss@text #1->{\mbox {#1}}
+                           
+l.343     \texttt{f = lambda x: x^2}
+                                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:344: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344     \]
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:345: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345     \[
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:346: Undefined control sequence.
+<argument> \ttfamily print(f(4)) \quad \text 
+                                             {## Output will be 16}
+l.346 ...t(f(4)) \quad \text{# Output will be 16}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:346: You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \ttfamily print(f(4)) \quad \text {##
+                                                 Output will be 16}
+l.346 ...t(f(4)) \quad \text{# Output will be 16}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:347: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347     \]
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:348: Missing $ inserted.
+<inserted text> 
+                $
+l.348 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:348: Missing } inserted.
+<inserted text> 
+                }
+l.348 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:349: LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.349     \item
+                What is the difference between a list and a tuple in Python?
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:349: Missing $ inserted.
+<inserted text> 
+                $
+l.349     \item W
+                 hat is the difference between a list and a tuple in Python?
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:349: Missing } inserted.
+<inserted text> 
+                }
+l.349     \item W
+                 hat is the difference between a list and a tuple in Python?
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:349: Display math should end with $$.
+<to be read again> 
+                   \vskip 
+l.349     \item W
+                 hat is the difference between a list and a tuple in Python?
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+
+[7]
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 377.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 377.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 377.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:380: Undefined control sequence.
+<argument> ...print(my\_dict["name"]) \quad \text 
+                                                  {## Output will be "Alice"}
+l.380 ...]) \quad \text{# Output will be "Alice"}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:380: You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> ...nt(my\_dict["name"]) \quad \text {##
+                                                   Output will be "Alice"}
+l.380 ...]) \quad \text{# Output will be "Alice"}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:397: Undefined control sequence.
+<argument> ...ly print(my\_list[1:4]) \quad \text 
+                                                  {## Output will be [2, 3, 4]}
+l.397 ... \quad \text{# Output will be [2, 3, 4]}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:397: You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> ...print(my\_list[1:4]) \quad \text {##
+                                                   Output will be [2, 3, 4]}
+l.397 ... \quad \text{# Output will be [2, 3, 4]}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+
+[8]
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:491: Undefined control sequence.
+<argument> \ttfamily print(my\_int) \quad \text 
+                                                {## Output will be 123}
+l.491 ...\_int) \quad \text{# Output will be 123}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/michael/Desktop/projects/Qunat-books/Quantitative test Questions/main.tex:491: You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> ...amily print(my\_int) \quad \text {##
+                                                   Output will be 123}
+l.491 ...\_int) \quad \text{# Output will be 123}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+
+[9] (main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1320 strings out of 473574
+ 21620 string characters out of 5726148
+ 416946 words of memory out of 5000000
+ 24539 multiletter control sequences out of 15000+600000
+ 561877 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,394b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (9 pages, 185828 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
